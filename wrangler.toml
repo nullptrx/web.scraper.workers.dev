@@ -1,0 +1,4 @@
+name = "web-scraper"
+workers_dev = false
+send_metrics = false
+compatibility_date = "2023-07-15"
